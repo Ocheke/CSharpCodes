@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\Method2\Method2\bin\Debug\net6.0\Method2.exe
+C:\Users\Student\source\repos\Method2\Method2\bin\Debug\net6.0\Method2.deps.json
+C:\Users\Student\source\repos\Method2\Method2\bin\Debug\net6.0\Method2.runtimeconfig.json
+C:\Users\Student\source\repos\Method2\Method2\bin\Debug\net6.0\Method2.dll
+C:\Users\Student\source\repos\Method2\Method2\bin\Debug\net6.0\ref\Method2.dll
+C:\Users\Student\source\repos\Method2\Method2\bin\Debug\net6.0\Method2.pdb
+C:\Users\Student\source\repos\Method2\Method2\obj\Debug\net6.0\Method2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Method2\Method2\obj\Debug\net6.0\Method2.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Method2\Method2\obj\Debug\net6.0\Method2.AssemblyInfo.cs
+C:\Users\Student\source\repos\Method2\Method2\obj\Debug\net6.0\Method2.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Method2\Method2\obj\Debug\net6.0\Method2.dll
+C:\Users\Student\source\repos\Method2\Method2\obj\Debug\net6.0\ref\Method2.dll
+C:\Users\Student\source\repos\Method2\Method2\obj\Debug\net6.0\Method2.pdb
+C:\Users\Student\source\repos\Method2\Method2\obj\Debug\net6.0\Method2.genruntimeconfig.cache
+C:\Users\Student\source\repos\Method2\Method2\obj\Debug\net6.0\Method2.csproj.AssemblyReference.cache

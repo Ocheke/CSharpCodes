@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\BestScrabbleApp\BestScrabbleApp\bin\Debug\net6.0\BestScrabbleApp.exe
+C:\Users\Student\source\repos\BestScrabbleApp\BestScrabbleApp\bin\Debug\net6.0\BestScrabbleApp.deps.json
+C:\Users\Student\source\repos\BestScrabbleApp\BestScrabbleApp\bin\Debug\net6.0\BestScrabbleApp.runtimeconfig.json
+C:\Users\Student\source\repos\BestScrabbleApp\BestScrabbleApp\bin\Debug\net6.0\BestScrabbleApp.dll
+C:\Users\Student\source\repos\BestScrabbleApp\BestScrabbleApp\bin\Debug\net6.0\ref\BestScrabbleApp.dll
+C:\Users\Student\source\repos\BestScrabbleApp\BestScrabbleApp\bin\Debug\net6.0\BestScrabbleApp.pdb
+C:\Users\Student\source\repos\BestScrabbleApp\BestScrabbleApp\obj\Debug\net6.0\BestScrabbleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\BestScrabbleApp\BestScrabbleApp\obj\Debug\net6.0\BestScrabbleApp.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\BestScrabbleApp\BestScrabbleApp\obj\Debug\net6.0\BestScrabbleApp.AssemblyInfo.cs
+C:\Users\Student\source\repos\BestScrabbleApp\BestScrabbleApp\obj\Debug\net6.0\BestScrabbleApp.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\BestScrabbleApp\BestScrabbleApp\obj\Debug\net6.0\BestScrabbleApp.dll
+C:\Users\Student\source\repos\BestScrabbleApp\BestScrabbleApp\obj\Debug\net6.0\ref\BestScrabbleApp.dll
+C:\Users\Student\source\repos\BestScrabbleApp\BestScrabbleApp\obj\Debug\net6.0\BestScrabbleApp.pdb
+C:\Users\Student\source\repos\BestScrabbleApp\BestScrabbleApp\obj\Debug\net6.0\BestScrabbleApp.genruntimeconfig.cache
+C:\Users\Student\source\repos\BestScrabbleApp\BestScrabbleApp\obj\Debug\net6.0\BestScrabbleApp.csproj.AssemblyReference.cache

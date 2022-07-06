@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "afab63e7-bb04-4e0e-bf39-a6d9cbd53b1c": {
+      "ProjectGuid": "afab63e7-bb04-4e0e-bf39-a6d9cbd53b1c",
+      "DisplayName": "Assignment Fizzbuzz",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

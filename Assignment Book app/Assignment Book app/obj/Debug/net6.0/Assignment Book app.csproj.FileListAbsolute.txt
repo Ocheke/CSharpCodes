@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\Assignment Book app\Assignment Book app\bin\Debug\net6.0\Assignment Book app.exe
+C:\Users\Student\source\repos\Assignment Book app\Assignment Book app\bin\Debug\net6.0\Assignment Book app.deps.json
+C:\Users\Student\source\repos\Assignment Book app\Assignment Book app\bin\Debug\net6.0\Assignment Book app.runtimeconfig.json
+C:\Users\Student\source\repos\Assignment Book app\Assignment Book app\bin\Debug\net6.0\Assignment Book app.dll
+C:\Users\Student\source\repos\Assignment Book app\Assignment Book app\bin\Debug\net6.0\ref\Assignment Book app.dll
+C:\Users\Student\source\repos\Assignment Book app\Assignment Book app\bin\Debug\net6.0\Assignment Book app.pdb
+C:\Users\Student\source\repos\Assignment Book app\Assignment Book app\obj\Debug\net6.0\Assignment Book app.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\Assignment Book app\Assignment Book app\obj\Debug\net6.0\Assignment Book app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Assignment Book app\Assignment Book app\obj\Debug\net6.0\Assignment Book app.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Assignment Book app\Assignment Book app\obj\Debug\net6.0\Assignment Book app.AssemblyInfo.cs
+C:\Users\Student\source\repos\Assignment Book app\Assignment Book app\obj\Debug\net6.0\Assignment Book app.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Assignment Book app\Assignment Book app\obj\Debug\net6.0\Assignment Book app.dll
+C:\Users\Student\source\repos\Assignment Book app\Assignment Book app\obj\Debug\net6.0\ref\Assignment Book app.dll
+C:\Users\Student\source\repos\Assignment Book app\Assignment Book app\obj\Debug\net6.0\Assignment Book app.pdb
+C:\Users\Student\source\repos\Assignment Book app\Assignment Book app\obj\Debug\net6.0\Assignment Book app.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\Simplified Quiz Assignment\Simplified Quiz Assignment\bin\Debug\net6.0\Simplified Quiz Assignment.exe
+C:\Users\Student\source\repos\Simplified Quiz Assignment\Simplified Quiz Assignment\bin\Debug\net6.0\Simplified Quiz Assignment.deps.json
+C:\Users\Student\source\repos\Simplified Quiz Assignment\Simplified Quiz Assignment\bin\Debug\net6.0\Simplified Quiz Assignment.runtimeconfig.json
+C:\Users\Student\source\repos\Simplified Quiz Assignment\Simplified Quiz Assignment\bin\Debug\net6.0\Simplified Quiz Assignment.dll
+C:\Users\Student\source\repos\Simplified Quiz Assignment\Simplified Quiz Assignment\bin\Debug\net6.0\ref\Simplified Quiz Assignment.dll
+C:\Users\Student\source\repos\Simplified Quiz Assignment\Simplified Quiz Assignment\bin\Debug\net6.0\Simplified Quiz Assignment.pdb
+C:\Users\Student\source\repos\Simplified Quiz Assignment\Simplified Quiz Assignment\obj\Debug\net6.0\Simplified Quiz Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Simplified Quiz Assignment\Simplified Quiz Assignment\obj\Debug\net6.0\Simplified Quiz Assignment.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Simplified Quiz Assignment\Simplified Quiz Assignment\obj\Debug\net6.0\Simplified Quiz Assignment.AssemblyInfo.cs
+C:\Users\Student\source\repos\Simplified Quiz Assignment\Simplified Quiz Assignment\obj\Debug\net6.0\Simplified Quiz Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Simplified Quiz Assignment\Simplified Quiz Assignment\obj\Debug\net6.0\Simplified Quiz Assignment.dll
+C:\Users\Student\source\repos\Simplified Quiz Assignment\Simplified Quiz Assignment\obj\Debug\net6.0\ref\Simplified Quiz Assignment.dll
+C:\Users\Student\source\repos\Simplified Quiz Assignment\Simplified Quiz Assignment\obj\Debug\net6.0\Simplified Quiz Assignment.pdb
+C:\Users\Student\source\repos\Simplified Quiz Assignment\Simplified Quiz Assignment\obj\Debug\net6.0\Simplified Quiz Assignment.genruntimeconfig.cache
+C:\Users\Student\source\repos\Simplified Quiz Assignment\Simplified Quiz Assignment\obj\Debug\net6.0\Simplified Quiz Assignment.csproj.AssemblyReference.cache
