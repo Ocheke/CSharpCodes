@@ -1,5 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
-
 try
 {
     Console.WriteLine("enter first number");
@@ -23,4 +22,9 @@ catch(Exception err)
 finally
 {
     Console.WriteLine("Thanks for trying......");
+}
+
+for(int i = 0; i <= 100; i++)
+{
+    Console.WriteLine(i);
 }
