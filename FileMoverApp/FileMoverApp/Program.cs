@@ -39,7 +39,6 @@ namespace FileMoverApp
                 Console.WriteLine("YOU ARE TAKING AN IMPOSSIBLE STEP....");
                 Console.WriteLine("AN IMAGE ALREADY EXIST IN THE FOLDER...");
             }
-
             Console.ReadLine();
         }
     }
