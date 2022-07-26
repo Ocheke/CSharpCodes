@@ -60,7 +60,7 @@ namespace LibraryApp
                         {
                             Console.WriteLine("BOOK HAS SUCCESSFULLY BEEN RETURNED");
                         }
-                        else if (int.Parse(ReturnBook) >= 11 || int.Parse(ReturnBook) <= 30)
+                        else if (int.Parse(ReturnBook) >= 11 && int.Parse(ReturnBook) <= 30)
                         {
                             int fine = int.Parse(ReturnBook) - 10;
                             Console.WriteLine($"PAY {fine * 50} FOR RETURNING THE BOOK LATE.");

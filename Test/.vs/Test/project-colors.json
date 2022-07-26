@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "acdd894e-8f87-4ea3-91e6-edf68c698a1f": {
+      "ProjectGuid": "acdd894e-8f87-4ea3-91e6-edf68c698a1f",
+      "DisplayName": "Bank",
+      "ColorIndex": 0
+    },
+    "20efc407-1e34-4bf2-a663-47e257cc8269": {
+      "ProjectGuid": "20efc407-1e34-4bf2-a663-47e257cc8269",
+      "DisplayName": "BankTests",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "ec998610-cb25-4584-b9d6-13aecaef3704": {
+      "ProjectGuid": "ec998610-cb25-4584-b9d6-13aecaef3704",
+      "DisplayName": "UnitTestProject1",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
